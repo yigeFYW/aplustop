@@ -1,0 +1,31 @@
+body{
+            font-family: "微软雅黑",sans-serif;
+        }
+        .pagination .active span{
+            background-color: #18a689;
+            color: #efefef;
+        }
+        .pagination .active span:hover{
+            background-color: #18a689;
+        }
+        .pagination{
+            position:relative;
+            top:-30px;
+        }
+        #connn .col-xs-4{
+            text-align:center;
+        }
+        .bounceIn{
+            font-size:30px;
+            display: block;
+            width:60px;
+            margin:0 auto;
+            line-height:60px;
+            -webkit-border-radius:30px;
+            -moz-border-radius:30px;
+            border-radius:30px;
+            background: #ff9000;
+        }
+        .navbar-right li a{
+            font-weight: 500;
+        }
